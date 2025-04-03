@@ -1,4 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72FD1&width=435&lines=Hello+World!+Welcome+to+my+GitHub;Ol%C3%A1+Mundo!+Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
+
+
+### GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/anacristinaneves">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
 <!--
 **lauren-ramos/lauren-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
