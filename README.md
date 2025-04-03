@@ -1,25 +1,34 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72FD1&width=435&lines=Hello+World!+Welcome+to+my+GitHub;Ol%C3%A1+Mundo!+Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
+<p align="left">Sou a Lauren, tenho 19 anos, sou estudante de Ciência da Computação. Atualmente, estou estudando para ser desenvolvedora full-stack. Tecnologia sempre foi uma das minhas paixões, entender e aprender a otimizar processos é algo que sempre me chamou atenção e por isso decidi entrar no mundo da programação.<br><br>I'm Lauren, 19 years old, and a Computer Science student. I'm currently studying to become a full-stack developer. Technology has always been one of my passions—understanding and learning how to optimize processes has always caught my attention, which is why I decided to dive into the world of programming.</p>
 
-### GitHub Stats
+###
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/lauren-ramos">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=lauren-ramos&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-ramos&layout=compact&langs_count=7&theme=one_dark_pro"/>
+<div align="left">
+</div>
+
+###
+
+<h2 align="left">Socials:</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.postimg.cc/Gp9szd3Z/1743524903804.png"  />
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/lalai._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="laurenramos.2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/lauren-doliveira-ramos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<!--
-**lauren-ramos/lauren-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
