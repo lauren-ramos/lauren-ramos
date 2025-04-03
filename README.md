@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72FD1&width=435&lines=Hello+World.+I'm+Lauren;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72FD1&width=435&lines=Hello+World.+I'm+Lauren%2C+welcome+to+my+GitHub;Ol%C3%A1+Mundo!+Sou+a+Lauren%2C+bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 <!--
 **lauren-ramos/lauren-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
