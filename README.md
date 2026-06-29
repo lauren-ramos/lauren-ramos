@@ -1,15 +1,92 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Olá! 👋 Eu sou a Lauren Ramos</h1>
 
+<p align="center">
+  💻 Desenvolvedora Front-end • Estudante de Tecnologia da Informação
+</p>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lauren-ramos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=lauren-ramos&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lauren-ramos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Apaixonada por transformar ideias em interfaces modernas, responsivas e intuitivas.
+  Atualmente desenvolvo aplicações com React, TypeScript e Supabase, sempre buscando evoluir e aprender novas tecnologias.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-000?style=for-the-badge)](https://portfolio-lauren-ramos.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren-doliveira-ramos)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurenramos.2000@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Tecnologia da Informação
+- 💼 Estagiária de Desenvolvimento Front-end
+- ⚛️ Desenvolvimento de aplicações com React e TypeScript
+- 🔥 Experiência com Supabase, autenticação e banco de dados
+- 🚀 Deploy de aplicações utilizando Vercel
+- 📚 Sempre aprendendo novas tecnologias
+- 🎯 Objetivo: me tornar Desenvolvedora Full Stack
+
+---
+
+## 💻 Tecnologias
+
+### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,java,python,supabase" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=lauren-ramos&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lauren-ramos&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-ramos&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Portfólio
+
+Confira alguns dos meus projetos e minha trajetória como desenvolvedora:
+
+➡️ **https://portfolio-lauren-ramos.vercel.app/**
+
+---
+
+## 📫 Contato
+
+- 🌐 Portfólio: https://portfolio-lauren-ramos.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/lauren-doliveira-ramos
+- 📧 E-mail: **laurenramos.2000@gmail.com**
+
+---
+
+<div align="center">
+
+### ✨ "Sempre aprendendo, sempre construindo."
+
+⭐ Obrigada por visitar meu perfil!
+
+</div>
