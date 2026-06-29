@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou a Lauren Ramos</h1>
 
 <p align="center">
-  💻 Desenvolvedora Front-end • Estudante de Tecnologia da Informação
+  💻 Desenvolvedora Full-Stack • Estudante de Tecnologia da Informação
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Tecnologia da Informação
-- 💼 Estagiária de Desenvolvimento Front-end
+- 💼 Auxiliar de Desenvolvimento Full-Stack
 - ⚛️ Desenvolvimento de aplicações com React e TypeScript
 - 🔥 Experiência com Supabase, autenticação e banco de dados
 - 🚀 Deploy de aplicações utilizando Vercel
